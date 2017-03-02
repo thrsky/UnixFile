@@ -1,0 +1,14 @@
+﻿  main.cpp
+g:\c++\大三\操作系统\simulateunixfilesys\simulateunixfilesys\format.h(47): warning C4101: “ino”: 未引用的局部变量
+g:\c++\大三\操作系统\simulateunixfilesys\simulateunixfilesys\format.h(165): warning C4244: “=”: 从“time_t”转换到“long”，可能丢失数据
+g:\c++\大三\操作系统\simulateunixfilesys\simulateunixfilesys\format.h(342): warning C4018: “<”: 有符号/无符号不匹配
+g:\c++\大三\操作系统\simulateunixfilesys\simulateunixfilesys\format.h(346): warning C4018: “<”: 有符号/无符号不匹配
+g:\c++\大三\操作系统\simulateunixfilesys\simulateunixfilesys\command.h(47): warning C4244: “=”: 从“time_t”转换到“unsigned int”，可能丢失数据
+g:\c++\大三\操作系统\simulateunixfilesys\simulateunixfilesys\command.h(64): warning C4018: “<”: 有符号/无符号不匹配
+g:\c++\大三\操作系统\simulateunixfilesys\simulateunixfilesys\command.h(599): warning C4018: “<”: 有符号/无符号不匹配
+g:\c++\大三\操作系统\simulateunixfilesys\simulateunixfilesys\command.h(691): warning C4553: “==”: 运算符不起任何作用；是否是有意使用“=”的?
+g:\c++\大三\操作系统\simulateunixfilesys\simulateunixfilesys\command.h(746): warning C4553: “==”: 运算符不起任何作用；是否是有意使用“=”的?
+g:\c++\大三\操作系统\simulateunixfilesys\simulateunixfilesys\command.h(802): warning C4553: “==”: 运算符不起任何作用；是否是有意使用“=”的?
+g:\c++\大三\操作系统\simulateunixfilesys\simulateunixfilesys\command.h(199): warning C4715: “cd”: 不是所有的控件路径都返回值
+  SimulateUnixFileSys.vcxproj -> G:\c++\大三\操作系统\SimulateUnixFileSys\Debug\SimulateUnixFileSys.exe
+  SimulateUnixFileSys.vcxproj -> G:\c++\大三\操作系统\SimulateUnixFileSys\Debug\SimulateUnixFileSys.pdb (Full PDB)
